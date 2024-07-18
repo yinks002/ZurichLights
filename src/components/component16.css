@@ -1,0 +1,14 @@
+.component16-container {
+  display: flex;
+  position: relative;
+}
+.component16-image {
+  width: 366px;
+  height: 364px;
+  object-fit: cover;
+}
+@media(max-width: 767px) {
+  .component16-image {
+    width: 100%;
+  }
+}

@@ -1,0 +1,9 @@
+.text1-container {
+  display: flex;
+  position: relative;
+}
+.text1-text {
+  width: 100%;
+  font-size: 35px;
+  text-align: center;
+}

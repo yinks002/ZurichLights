@@ -1,0 +1,14 @@
+.component15-container {
+  display: flex;
+  position: relative;
+}
+.component15-image {
+  width: 431px;
+  height: 364px;
+  object-fit: cover;
+}
+@media(max-width: 767px) {
+  .component15-image {
+    width: 100%;
+  }
+}

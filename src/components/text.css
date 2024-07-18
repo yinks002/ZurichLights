@@ -1,0 +1,8 @@
+.text-container {
+  display: flex;
+  position: relative;
+}
+.text-text {
+  height: 125px;
+  text-align: center;
+}
